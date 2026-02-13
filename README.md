@@ -1,16 +1,15 @@
-## Hi there 👋
+## Come to Codeberg
 
-<!--
-**farooqkz/farooqkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Hello! I'm a FOSS advocate, Wikipedia Editor, Blogger
+and Genetic Programming researcher, among other things!
 
-Here are some ideas to get you started:
+The presence I maintain on Github is mostly for
+contributing to other projects. Most the projects I've got control
+of, are hosted on [me Codeberg account](https://codeberg.org/farooqkz/halqe).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Codeberg is a non-profit organization and they use the **Forgejo** software
+for code hosting. One of major goals is _Federation_ between Forgejo
+instances. So from one instance, you could do a PR for a repo on the other
+one.
+
+Also if you come to Codeberg, make sure to leave some stars for me! `:>`
