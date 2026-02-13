@@ -5,7 +5,7 @@ and Genetic Programming researcher, among other things!
 
 The presence I maintain on Github is mostly for
 contributing to other projects. Most the projects I've got control
-of, are hosted on [me Codeberg account](https://codeberg.org/farooqkz/halqe).
+of, are hosted on [me Codeberg account](https://codeberg.org/farooqkz/).
 
 Codeberg is a non-profit organization and they use the **Forgejo** software
 for code hosting. One of major goals is _Federation_ between Forgejo
